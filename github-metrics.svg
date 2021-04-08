@@ -1155,7 +1155,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 01:00
+                            Mostly push code around 04:00
                         </li>
                         <li>
                             Mostly active on sunday
@@ -1177,9 +1177,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            3
+                            2
                         </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         01
                     </div>
                     <div class="entry">
@@ -1354,9 +1354,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                4
+                                3
                             </span>
-                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -1384,18 +1384,18 @@
                             <span class="name">
                                 Python
                             </span>
-                            <div class="bar" style="width: 75.03999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 74.56%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
-                                94%
+                                93%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 C++
                             </span>
-                            <div class="bar" style="width: 4.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                6%
+                                7%
                             </span>
                         </div>
                     </div>
