@@ -1271,7 +1271,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 70.2 characters per line of code written</li>
+                        <li>Has approximately 63.9 characters per line of code written</li>
                         <li>Mostly pushes code around 03:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1351,8 +1351,8 @@
               13
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               14
             </div>
                     <div class="entry">
@@ -1412,8 +1412,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1448,18 +1448,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Jupyter Notebook</span>
-                            <div class="bar" style="width: 67.328%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">84%</span>
+                            <div class="bar" style="width: 65.84%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">82%</span>
                         </div>
                         <div class="entry">
                             <span class="name">R</span>
-                            <div class="bar" style="width: 6.48%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">8%</span>
+                            <div class="bar" style="width: 7.240000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 6.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">8%</span>
+                            <div class="bar" style="width: 6.896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rebol</span>
