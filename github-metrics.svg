@@ -1481,13 +1481,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">R</span>
-                            <div class="bar" style="width: 62.73198728589996%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">78%</span>
+                            <div class="bar" style="width: 61.99930244412846%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">77%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 17.268012714100042%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">22%</span>
+                            <div class="bar" style="width: 18.000697555871543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">23%</span>
                         </div>
                     </div>
                 </section>
