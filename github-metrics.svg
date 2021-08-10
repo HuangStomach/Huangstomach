@@ -1498,17 +1498,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Jupyter Notebook</span>
-                            <div class="bar" style="width: 39.60924941263757%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">50%</span>
+                            <div class="bar" style="width: 39.571755677950364%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">49%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 22.19859033015951%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 22.21919673247107%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">28%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 18.192160257202918%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.20904758957856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                     </div>
