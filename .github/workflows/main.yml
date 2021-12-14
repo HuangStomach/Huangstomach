@@ -19,7 +19,7 @@ jobs:
           base: "header"
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: "" # List of comma separated languages to ignore
+          plugin_languages_ignored: "Jupyter Notebook" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
           plugin_habits: yes
           plugin_habits_from: 200
