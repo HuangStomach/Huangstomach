@@ -1,4 +1,7 @@
-<img src="https://github.com/HuangStomach/Huangstomach/raw/main/github-metrics.svg" alt="Metrics" style="display: block;margin: 5px auto;">
+<div align="center">
+  <img src="https://github.com/HuangStomach/Huangstomach/blob/main/github-metrics.svg" alt="Metrics">
+<!--![Metrics](https://github.com/HuangStomach/Huangstomach/blob/main/github-metrics.svg)-->
+</div>
 
 <!--
 **HuangStomach/Huangstomach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
